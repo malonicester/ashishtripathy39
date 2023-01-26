@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src = "https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="coding" width="100%" src = "https://www.lambdatest.com/resources/images/news24.gif">
 <h1 align="center">Hi 👋, I'm Ashish Tripathy</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
