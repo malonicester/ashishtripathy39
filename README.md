@@ -1,4 +1,4 @@
-<img align="center" alt="coding" style="max-width: 100%; display: flex;justify-content:center;align-items:center;" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="coding" style="width: 50%; display:inline-block;" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Ashish Tripathy</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
