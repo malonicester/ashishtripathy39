@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashish Tripathy</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
-<p align="center"> Ambitious Aspiring Backend Developer with good knowledge in Java,Javascript Hibernate, Spring, Spring Boot,SQL, RDBMS, and Rest API. Passionate about coding and learning new technologies, Looking forward to working in a reputed company.Can pick up another framework or language according to my needs and get  the work done!</p
+<p align="center"> Ambitious Aspiring Backend Developer with good knowledge in Java,Javascript Hibernate, Spring, Spring Boot,SQL, RDBMS, and Rest API. Passionate about coding and learning new technologies, Looking forward to working in a reputed company.Can pick up another framework or language according to  needs and get  the work done!</p
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishtripathy39&label=Profile%20views&color=0e75b6&style=flat" alt="ashishtripathy39" /> </p>
 
